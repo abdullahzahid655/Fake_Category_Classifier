@@ -66,6 +66,8 @@ The notebook generates a comprehensive **5-panel dashboard** featuring:
 4. **Confusion Matrices** - All 4 models' classification patterns
 5. **Per-Class F1-Score Heatmap** - Performance across categories & models
 
+![Results Dashboard](outputs/results_dashboard.png)
+
 ### 📊 Model Performance Summary
 
 | Model | Accuracy | Precision | Recall | F1-Score |
@@ -77,6 +79,8 @@ The notebook generates a comprehensive **5-panel dashboard** featuring:
 
 ### ☁️ Word Clouds
 Per-category word clouds visualizing the most common terms in each news category
+
+![Word Clouds](outputs/wordclouds.png)
 
 ---
 
